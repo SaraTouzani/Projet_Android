@@ -1,0 +1,6 @@
+Ce dossier contient les fichiers php ainsi qu'un script pour créer la BD dans mysql
+
+Projet réalisé par: BOUHALI Sara
+		TOUZANI Sara
+		BELAHMIDI Hind
+filière: e-MBI
